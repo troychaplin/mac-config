@@ -27,7 +27,7 @@ brew install yarn
 brew install --cask xquartz
 
 # PHP Standards
-# phpcs --config-set default_standard PSR2
+phpcs --config-set default_standard PSR2
 
 # Browsers
 echo "Installing work apps..."
