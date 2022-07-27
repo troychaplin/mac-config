@@ -26,10 +26,10 @@ brew install php-code-sniffer
 brew install yarn
 brew install --cask xquartz
 
-# PHP Standards
+# Set PHP Standards
 phpcs --config-set default_standard PSR2
 
-# Browsers
+# Browsers & More
 echo "Installing work apps..."
 brew install --cask brave-browser
 brew install --cask docker
