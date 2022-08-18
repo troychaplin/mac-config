@@ -35,6 +35,7 @@ brew install --cask brave-browser
 brew install --cask docker
 brew install --cask figma
 brew install --cask firefox-developer-edition
+brew install --cask google-chrome
 brew install --cask microsoft-teams
 brew install --cask postman
 brew install --cask sequel-pro
