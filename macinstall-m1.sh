@@ -14,7 +14,7 @@ brew upgrade
 echo "Adding some ZHS to the brew"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-# echo "A homebrew throwback"
+echo "A homebrew throwback"
 sudo softwareupdate --install-rosetta
 
 # Browsers & More
