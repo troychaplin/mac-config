@@ -56,3 +56,5 @@ brew install --cask rectangle
 # brew install --cask steam
 # brew install --cask the-unarchiver
 # brew install --cask zoom
+
+mkdir ~/.nvm
