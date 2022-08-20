@@ -24,6 +24,7 @@ brew install --cask docker
 brew install --cask figma
 brew install --cask firefox-developer-edition
 brew install --cask google-chrome
+brew install --cask microsoft-edge
 brew install --cask microsoft-teams
 brew install --cask postman
 brew install --cask sequel-pro
@@ -52,6 +53,7 @@ brew install --cask 1password
 brew install --cask fig
 brew install --cask font-fira-code
 brew install --cask memory-clean-3
+brew install --cask raindropio
 brew install --cask rectangle
 # brew install --cask steam
 # brew install --cask the-unarchiver
