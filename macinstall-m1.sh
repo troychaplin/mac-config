@@ -25,6 +25,7 @@ brew install --cask docker
 brew install --cask figma
 brew install --cask firefox-developer-edition
 brew install --cask google-chrome
+brew install --cask iterm2
 brew install --cask microsoft-edge
 brew install --cask microsoft-teams
 brew install --cask postman
