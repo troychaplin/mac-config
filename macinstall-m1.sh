@@ -38,7 +38,8 @@ brew install --cask warp
 echo "Toss in some supporting flavs"
 brew install composer
 brew install git
-brew install git-flow
+# brew install git-flow
+brew install git-flow-avh
 brew install node
 brew install nvm
 brew install php
