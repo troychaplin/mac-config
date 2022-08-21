@@ -1,7 +1,7 @@
 echo "Prepping some homebrew..."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 # ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-# eval $(/opt/homebrew/bin/brew shellenv)
+eval $(/opt/homebrew/bin/brew shellenv)
 
 echo "Tap dat homebrew"
 brew tap 'homebrew/cask'
@@ -16,7 +16,7 @@ echo "Adding some ZHS to the brew"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # echo "A homebrew throwback"
-# sudo softwareupdate --install-rosetta
+sudo softwareupdate --install-rosetta
 
 # Browsers & More
 echo "Adding the main ingredients"
