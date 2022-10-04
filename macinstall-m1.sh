@@ -34,7 +34,7 @@ brew install --cask transmit
 brew install --cask visual-studio-code
 brew install --cask warp
 
-# Dev Tools
+# Stuff
 echo "Toss in some supporting flavs"
 brew install composer
 brew install git
@@ -50,7 +50,7 @@ brew install yarn
 # Set PHP Standards
 # phpcs --config-set default_standard PSR2
 
-# Design
+# More Stuff
 echo "And now the finishing touches"
 brew install --cask 1password
 brew install --cask fig
@@ -58,6 +58,7 @@ brew install --cask font-fira-code
 brew install --cask memory-clean-3
 brew install --cask raindropio
 brew install --cask rectangle
+brew install --cask tableplus
 # brew install --cask steam
 # brew install --cask the-unarchiver
 # brew install --cask zoom
