@@ -43,6 +43,7 @@ brew install node
 brew install nvm
 brew install php
 # brew install php-code-sniffer
+brew install wp-cli
 brew install yarn
 # brew install --cask xquartz
 
